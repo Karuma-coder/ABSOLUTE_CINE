@@ -2,11 +2,11 @@
 
 ### Tema do projeto:
 
-**[filmes]**
+**[filmes 2]**
 
-### área do projeto:
+### 👨‍🏫 área do projeto:
 
-**[entreterimento]**
+**[Artes]**
 
 ### 👥 integrantes:
 
@@ -18,7 +18,8 @@
 
 ## descrição do projeto:
 
-
+nosso site é focado em filmes e curtas-metragens antigos, com o proposito de apresentar isso para um novo publico
+e despertar um novo interesse na nova geração sobre a arte audio-visual antecessores.
 
 ## 🎯 objetivo:
 
@@ -28,7 +29,7 @@ melhoramento de nossas habilidades e ganho de experiencia.
 
 esse projeto foi feito para a valorização de antigas obras e apresentar de uma forma mais atual para novas gerações
 
-## ferramentas: ...
+## 🔧 ferramentas: ...
 
 - **liguagens**: [HTML, CSS]
 
@@ -38,7 +39,10 @@ esse projeto foi feito para a valorização de antigas obras e apresentar de uma
 
 ## 🛠️ passos pra aplicação do projeto: 
 
-1.
+1. criação da ideia
+2. idealizações para prototipo de Layout e Desing
+3. seleção dos curtas e filmes exibidos
+4. aplicações...
 
 
 
@@ -47,8 +51,8 @@ esse projeto foi feito para a valorização de antigas obras e apresentar de uma
 |fase:            |data:                          | descrição:                            |
 |-----------------|-------------------------------|---------------------------------------|
 |idea do projeto  |         03/09/2024            |varias seções de debates e idealizações|
-|iniciação        |         03/10/2024            |criamos o file                         | 
-|                 |                               |                                       |
+|iniciação        |         03/10/2024            |criamos o file do nosso site querido   | 
+|1º teste de video|         21/10/2024            |                                       |
 |                 |                               |                                       |
 
 
@@ -58,14 +62,15 @@ esse projeto foi feito para a valorização de antigas obras e apresentar de uma
 ##  print 🖥️
 
 ### versão alpha:
-![tela inicial] (Alpha.png)
 
+![alt text](image-1.png)
 
 ## conclusão
 
 ...
 
 
-### contado com DEV'S 
+### ☎️ contado com DEV'S 
 
 caso tenha interesse sobre o projeto ou colaborar acesse: 86859536004@senacrs.edu.br
+
