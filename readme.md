@@ -13,8 +13,8 @@
 |nome:            |github:                        | contato:                    |
 |-----------------|-------------------------------|-----------------------------|
 |João gabriel     | [github.com/OInformatico-lab] | (05040977093@senacrs.edu.br)|
-|Lucas pedroso    | [github.com/LucasLPedroso]    | (86859536004@senacrs.edu.br)|
-|Nicolas monteiro | [github.com/Karuma-coder]     | (03218770041@senacrs.edu.br)|
+|Lucas pedroso    |   [github.com/LucasLPedroso]  | (86859536004@senacrs.edu.br)|
+|Nicolas monteiro |    [github.com/Karuma-coder]  | (03218770041@senacrs.edu.br)|
 
 ## descrição do projeto:
 
@@ -53,7 +53,7 @@ esse projeto foi feito para a valorização de antigas obras e apresentar de uma
 | idea do projeto   |         03/09/2024            |       varias seções de debates e idealizações             |
 |    iniciação      |         03/10/2024            |         criamos o file do nosso site querido              | 
 | 1º teste de video |         21/10/2024            |conseguimos com sucesso aplicar a mecanica de video ao site|
-| escolha da logo   |         31/10/2024            |         conseguimos finalizar a nossa logo                |
+|  escolha da logo  |         31/10/2024            |         conseguimos finalizar a nossa logo                |
 
 
 
