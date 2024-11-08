@@ -63,7 +63,8 @@ esse projeto foi feito para a valorização de antigas obras e apresentar de uma
 
 ### versão alpha:
 
-![alt text](image-1.png)
+<H1>ALPHA:<H1/>
+
 ![Alpha](https://github.com/user-attachments/assets/c1e179fa-555b-42a5-beaa-071211de7dee)
 
 ![imagem (8)](https://github.com/user-attachments/assets/5ca1ce56-0147-4eab-8188-c871519b8147)
