@@ -48,12 +48,13 @@ esse projeto foi feito para a valorização de antigas obras e apresentar de uma
 
 ## ⏰ historico do projeto
 
-|fase:              |data:                          | descrição:                                                |
-|-------------------|-------------------------------|-----------------------------------------------------------|
-| idea do projeto   |         03/09/2024            |       varias seções de debates e idealizações             |
-|    iniciação      |         03/10/2024            |         criamos o file do nosso site querido              | 
-| 1º teste de video |         21/10/2024            |conseguimos com sucesso aplicar a mecanica de video ao site|
-|  escolha da logo  |         31/10/2024            |         conseguimos finalizar a nossa logo                |
+|fase:              |data:                          | descrição:                                                   |
+|-------------------|-------------------------------|--------------------------------------------------------------|
+| idea do projeto   |         03/09/2024            |           varias seções de debates e idealizações            |
+|    iniciação      |         03/10/2024            |            criamos o file do nosso site querido              | 
+| 1º teste de video |         21/10/2024            | conseguimos com sucesso aplicar a mecanica de video ao site  |
+|  escolha da logo  |         31/10/2024            |            conseguimos finalizar a nossa logo                |
+|iniciação da alpha |         05/11/2024            |finalizamos a parte pre-alpha e começamos a aprofundar no site|
 
 
 
