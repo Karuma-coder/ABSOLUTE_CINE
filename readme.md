@@ -2,7 +2,7 @@
 
 ### Tema do projeto:
 
-**[filmes 2]**
+**[filmes]**
 
 ### 👨‍🏫 área do projeto:
 
@@ -42,8 +42,12 @@ esse projeto foi feito para a valorização de antigas obras e apresentar de uma
 1. criação da ideia
 2. idealizações para prototipo de Layout e Desing
 3. seleção dos curtas e filmes exibidos
-4. aplicações...
-
+4. aplicações basicas
+5. aplicação dos filmes
+6. primeiro desing adicionado
+7. ficha dos filmes
+8. repaginada no desing
+9. correção de bug's
 
 
 ## ⏰ historico do projeto
@@ -55,6 +59,7 @@ esse projeto foi feito para a valorização de antigas obras e apresentar de uma
 | 1º teste de video |         21/10/2024            | conseguimos com sucesso aplicar a mecanica de video ao site  |
 |  escolha da logo  |         31/10/2024            |            conseguimos finalizar a nossa logo                |
 |iniciação da alpha |         05/11/2024            |finalizamos a parte pre-alpha e começamos a aprofundar no site|
+|    repaginada     |         10/11/2024            |     trocamos os design para um mais limpo e aperfeiçoado     |
 
 
 
