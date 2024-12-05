@@ -89,7 +89,7 @@ criado por nos mesmos do zero.
 este trabalho apresentamos com orgulho e uma visão otimista de aperfeiçoar este site nós proximos anos.
 
 
-### ☎️ contado com DEV'S 
+ ## ### ☎️ contado com DEV'S 
 
 caso tenha interesse sobre o projeto ou colaborar acesse: 86859536004@senacrs.edu.br
 
