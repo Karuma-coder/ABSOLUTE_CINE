@@ -82,7 +82,7 @@ esse projeto foi feito para a valorização de antigas obras e apresentar de uma
 
 ## conclusão
 
-...
+
 
 
 ### ☎️ contado com DEV'S 
