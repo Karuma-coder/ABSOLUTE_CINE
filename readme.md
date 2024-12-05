@@ -1,4 +1,4 @@
-# Absolute cineme:
+# Absolute cine:
 
 ### Link do projeto: https://senacrsedu-my.sharepoint.com/:u:/g/personal/03218770041_senacrs_edu_br/EUQQ2kQci5VCobpcJWuD9HoBsBSrosM4Lnac8iBZguobEw?e=uvZAka
 
@@ -33,7 +33,7 @@ esse projeto foi feito para a valorização de antigas obras e apresentar de uma
 
 ## 🔧 ferramentas: ...
 
-- **liguagens**: [HTML, CSS]
+- **liguagens**: [HTML, CSS, KRITA E PHOTOSHOP]
 
 
 - **ambiente de desenvolvimento**: [VSCODE, Github]
@@ -50,6 +50,7 @@ esse projeto foi feito para a valorização de antigas obras e apresentar de uma
 7. ficha dos filmes
 8. repaginada no desing
 9. correção de bug's
+10. finalização
 
 
 ## ⏰ historico do projeto
@@ -62,8 +63,7 @@ esse projeto foi feito para a valorização de antigas obras e apresentar de uma
 |  escolha da logo  |         31/10/2024            |            conseguimos finalizar a nossa logo                |
 |iniciação da alpha |         05/11/2024            |finalizamos a parte pre-alpha e começamos a aprofundar no site|
 |    repaginada     |         10/11/2024            |     trocamos os design para um mais limpo e aperfeiçoado     |
-
-
+|    finalização    |         26/11/2024            |                  finalização do projeto                      |
 
 ##  🖼️📸 fotos
 
@@ -80,9 +80,13 @@ esse projeto foi feito para a valorização de antigas obras e apresentar de uma
 
 
 
-## conclusão
+## conclusão 👾🤖
 
+Nesta jornada de HTML no sso grupo conseguiu aprender e comprender muito sobre o processo de criar um site profissonal e muito sobre trabalho 
+em equipe, desbravamos muito do cenário dos filmes clássico com uma, conseguimos desenvolver muito nossos campos de programação, pesquisa e desing original 
+criado por nos mesmos do zero.
 
+este trabalho apresentamos com orgulho e uma visão otimista de aperfeiçoar este site nós proximos anos.
 
 
 ### ☎️ contado com DEV'S 
