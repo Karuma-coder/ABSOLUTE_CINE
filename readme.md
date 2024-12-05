@@ -93,5 +93,5 @@ este trabalho apresentamos com orgulho e uma visão otimista de aperfeiçoar est
  
  ### ☎️ contado com DEV'S 
 
-caso tenha interesse sobre o projeto ou colaborar acesse: 86859536004@senacrs.edu.br
+caso tenha interesse sobre o projeto ou colaborar acesse: 03218770041@senacrs.edu.br
 
